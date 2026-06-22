@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest>
+  <include name="openvela.xml"/>
+  <project path="contest2026_018_Liekkas" name="contest2026_018_Liekkas">
+    <linkfile src="app/hello_app" dest="packages/demos/contest2026_018_hello_app"/>
+    <linkfile src="quickapp/hello_quickapp" dest="packages/apps/contest2026_018_hello_quickapp"/>
+    <linkfile src="board/contest_board" dest="vendor/openvela/boards/contest2026_018_board"/>
+  </project>
+</manifest>
